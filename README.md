@@ -72,8 +72,7 @@ pip install numpy opencv-python matplotlib
 - Hasan Uslu 
 - Umut Öztürk  
 - Abdullah Taha Aydın  
-
-Grup No: 2  
+  
 Eskisehir Osmangazi University – Computer Engineering
 
 ## 📚 References
